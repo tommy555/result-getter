@@ -3,22 +3,16 @@
 
 Author: Tom ZK Wong
 
-Complete date: Still in development
+Complete date: 10 Jan 2019
 
-Project name: FB page Crawler
+Project name: UTAR Final Exam Result Getter
 
-Language used: Java
+Language used: Python
 
-External library used: Jsoup, Sqlite
+External library used: BeautifulSoup
 
 
 
 
 Description:
- - This project are able to crawl certain amount of posts from specific FB page and store in in DB by using sqlite.
-
-What is not complete?
- - Duplicated post check
- - DB existence check
- - Delete history
- - Store DB file at different location for differnet OS
+ - This bot are able to get the final exam result from UTAR intranet automatically at peak hour.
