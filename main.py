@@ -10,8 +10,8 @@ import urllib3
 # Variable
 HTML_PROTOCOL = "http://portal7.utar.edu.my/"
 TARGET_URL = HTML_PROTOCOL+"loginPage.jsp"
-LOGIN_ID = "1800528"
-LOGIN_PASS = "960804-01-6509"
+LOGIN_ID = ""
+LOGIN_PASS = ""
 LOCATION_TEXT = "location.href='"
 
 # methods
